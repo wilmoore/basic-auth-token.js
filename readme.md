@@ -21,11 +21,18 @@
 
 ## Reference
 
-- [RFC2617](https://tools.ietf.org/html/rfc2617#section-2)
-- [Security Considerations](https://tools.ietf.org/html/rfc2617#section-4)
-- [Increasing Security](http://security.stackexchange.com/a/27881/72283)
+- [RFC2617]
+- [Security Considerations]
+- [Increasing Security]
+
+## Notes
+
+If you want the full [RFC2617] authorization header value, check out [basic-authorization-header](https://www.npmjs.com/package/basic-authorization-header).
 
 ## License
 
   [MIT](license)
 
+[RFC2617]: https://tools.ietf.org/html/rfc2617#section-2
+[Security Considerations]: https://tools.ietf.org/html/rfc2617#section-4
+[Increasing Security]: http://security.stackexchange.com/a/27881/72283
