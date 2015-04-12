@@ -1,15 +1,19 @@
 root = true
 
 [*]
-indent_style = tab
-end_of_line = lf
 charset = utf-8
-trim_trailing_whitespace = true
+end_of_line = LF
 insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+[{Makefile,makefile}]
+indent_style = tab
+
+[*.md]
+trim_trailing_whitespace = false
 
 [package.json]
 indent_style = space
 indent_size = 2
-
-[*.md]
-trim_trailing_whitespace = false
