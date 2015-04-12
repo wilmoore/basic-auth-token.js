@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.1.3 - 2015-04-12
+### Added
+- add `.gitattributes`.
+
+### Changed
+- update `.editorconfig`.
+- update `.gitignore`.
+- update `.travis.yml`.
+- simplify `license`.
+
 ## 0.1.2 - 2015-04-11
 ### Changed
 - added note pointing to basic-authorization-header.
