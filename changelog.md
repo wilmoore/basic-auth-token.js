@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.3.0 - 2015-04-29
+### Added
+- add `contributing.md`.
+
+### Changed
+- fixpack.
+- organize package meta in readme.
+
 ## 0.2.1 - 2015-04-12
 ### Changed
 - Moved license badge to bottom.
