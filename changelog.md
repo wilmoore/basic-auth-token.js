@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.4.2 - 2015-05-06
+### Changed
+- correct bugs and homepage link.
+
 ## 0.4.1 - 2015-04-29
 ### Added
 - add `contributing.md`.

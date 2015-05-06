@@ -4,7 +4,7 @@
   "version": "0.4.1",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
-    "url": "https://github.com/wilmoore/basic-auth-token/issues"
+    "url": "https://github.com/wilmoore/basic-auth-token.js/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -21,7 +21,7 @@
     "package.json",
     "readme.md"
   ],
-  "homepage": "https://github.com/wilmoore/basic-auth-token",
+  "homepage": "https://github.com/wilmoore/basic-auth-token.js",
   "keywords": [
     "RFC2617",
     "authorization",
